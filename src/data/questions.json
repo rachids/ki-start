@@ -19,13 +19,22 @@
         "intitule": "Vous êtes plutôt ...",
         "reponses": [
             {
-                "intitule": "Belliqueux"
+                "intitule": "Belliqueux",
+                "carrieres": [
+                    "Assassin", "Explorateur", "Inquisiteur", "Mercenaire", "Officier", "Terroriste"
+                ]
             },
             {
-                "intitule": "Aventurier"
+                "intitule": "Aventurier",
+                "carrieres": [
+                    "Espion", "Explorateur", "Inquisiteur", "Sorcier", "Trafiquant"
+                ]
             },
             {
-                "intitule": "Fourbe"
+                "intitule": "Fourbe",
+                "carrieres": [
+                    "Assassin", "Criminel", "Espion", "Faussaire", "Sorcier", "Terroriste"
+                ]
             }
         ]
     },
@@ -35,13 +44,23 @@
         "intitule": "Vous êtes plutôt ...",
         "reponses": [
             {
-                "intitule": "Baratineur"
+                "intitule": "Baratineur",
+                "carrieres": [
+                    "Astrologue", "Avocat", "Diplomate", "Marin", "Missionnaire", "Négociant", "Prostitué"
+                ]
             },
             {
-                "intitule": "Spirituel"
+                "intitule": "Spirituel",
+                "carrieres": [
+                    "Astrologue", "Mentat", "Missionnaire", "Prêtre", "Sorcier"
+                ]
             },
             {
-                "intitule": "Professionnel"
+                "intitule": "Professionnel",
+                "carrieres": [
+                    "Architecte", "Artiste", "Avocat", "Informaticien", "Mécanicien", "Médecin",
+                    "Négociant", "Trafiquant"
+                ]
             }
         ]
     }
