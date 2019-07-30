@@ -1,0 +1,48 @@
+[
+    {
+        "id": 0,
+        "intitule": "Vous souhaitez ...",
+        "reponses": [
+            {
+                "question_suivante": 1,
+                "intitule": "Vivre dangereusement."
+            },
+            {
+                "question_suivante": 2,
+                "intitule": "Découvrir le cybermonde sereinement."
+            }
+        ]
+    },
+
+    {
+        "id": 1,
+        "intitule": "Vous êtes plutôt ...",
+        "reponses": [
+            {
+                "intitule": "Belliqueux"
+            },
+            {
+                "intitule": "Aventurier"
+            },
+            {
+                "intitule": "Fourbe"
+            }
+        ]
+    },
+
+    {
+        "id": 2,
+        "intitule": "Vous êtes plutôt ...",
+        "reponses": [
+            {
+                "intitule": "Baratineur"
+            },
+            {
+                "intitule": "Spirituel"
+            },
+            {
+                "intitule": "Professionnel"
+            }
+        ]
+    }
+]
