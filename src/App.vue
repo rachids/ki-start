@@ -7,11 +7,11 @@
 
           <div class="carrieres">
               <div class="carriere" v-for="carriere in selectedCareers" v-bind:key="carriere.id">
-                  <div class="carriere-image">
+                  <div class="carriere-header">
                       <img v-bind:src="carriere.image"/>
+                      <h2>{{ carriere.nom }}</h2>
                   </div>
                   <div class="carriere-info">
-                      <h2>{{ carriere.nom }}</h2>
                       <p>{{ trimText(carriere.description) }}</p>
                       <a v-bind:href="carriere.url_regle">Lien vers les règles</a>
                   </div>
@@ -124,102 +124,109 @@
       height: 100%;
     }
 
-      .question {
-        display: flex;
-        align-items: center;
-        text-align: center;
-      }
+    .question {
+      display: flex;
+      align-items: center;
+      text-align: center;
+    }
 
-      .question p {
-        margin: auto;
-        font-size: xx-large;
-        padding-bottom: 6rem;
-      }
+    .question p {
+      margin: auto;
+      font-size: xx-large;
+      padding-bottom: 6rem;
+    }
 
-      .reponses {
-        display: flex;
-        justify-content: space-around;
-      }
+    .reponses {
+      display: flex;
+      justify-content: space-around;
+    }
 
-      .reponse {
-        width: 400px;
-        height: 250px;
-        background-color: #171738;
-        color: #8ef9f3;
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        text-align: center;
-        transition: background-color 1s;
-        font-size: x-large;
-        border-radius: 25px;
-      }
+    .reponse {
+      width: 400px;
+      height: 250px;
+      background-color: #171738;
+      color: #8ef9f3;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      text-align: center;
+      transition: background-color 1s;
+      font-size: x-large;
+      border-radius: 25px;
+    }
 
-      .reponse:hover {
-        background-color: #db5461;
-        cursor: pointer;
-      }
+    .reponse:hover {
+      background-color: #db5461;
+      cursor: pointer;
+    }
 
-      .btn {
-        display: inline-block;
-        padding: 0.46em 1.6em;
-        border: 0.1em solid #8EF9F3;
-        background-color: #593C8F;
-        color: #8EF9F3;
-      }
+    .btn {
+      display: inline-block;
+      padding: 0.46em 1.6em;
+      border: 0.1em solid #8EF9F3;
+      background-color: #593C8F;
+      color: #8EF9F3;
+      cursor: pointer;
+    }
 
-      .carrieres {
-          display: flex;
-          justify-content: space-around;
-          flex-wrap: wrap;
-      }
+    .carrieres {
+      display: flex;
+      justify-content: space-around;
+      flex-wrap: wrap;
+    }
 
-      .carriere {
-          margin: 5px;
-        width: 400px;
-        height: 40vh;
-        background-color: #171738;
-        color: #8ef9f3;
-        display: flex;
-        border-radius: 25px;
-      }
+    .carriere {
+      background-color: #171738;
+      width: 300px;
+      display: inline-block;
+      margin: auto;
+      border-radius: 5px;
+      position: relative;
+      text-align: center;
+      box-shadow: -1px 15px 30px -12px black;
+      color: #8ef9f3;
+    }
 
-        .carriere-image {
-            width: 120px;
-            height: 100%;
-            justify-self: center;
-        }
+    .carriere-header {
+      max-height: 190px;
+      text-align: center;
+    }
 
-        .carriere-image img {
-            display: block;
-            width: 120px;
-            height: 160px;
-        }
+    .carriere-header .carriere-image {
+      position: relative;
+      height: 130px;
+      margin-bottom: 35px;
+      border-top-left-radius: $border-radius-size;
+      border-top-right-radius: $border-radius-size;
+      overflow:hidden;
+    }
 
-        .carriere .carriere-info{
-            flex-grow: 5;
-            height: 100%;
-            padding-left: 5px;
-        }
+    .carriere-header h2 {
+      font-size: 26px;
+      font-weight: 900;
+      margin-bottom: 5px;
+    }
 
-        .carriere-info h2 {
+    .carriere-info {
+      padding: 20px;
+      margin-bottom: 10px;  
+    }
 
-        }
+    .carriere-info p {
+      text-align: left;
+    }
 
-        .carriere-info p {
-            text-align: left;
-        }
+    .carriere-info a {
+      display: inline-block;
+      margin-right: 3px;
+      width: 100%;
+      text-align: right;
+      color: #db5461;
+      text-underline: none;
+      cursor:pointer;
+    }
 
-        .carriere-info a {
-            display: inline-block;
-            margin-right: 3px;
-            width: 100%;
-            text-align: right;
-            color: #db5461;
-            text-underline: none;
-        }
-
-        .carriere-info a:hover {
-            color: #8EF9F3;
-        }
-    </style>
+    .carriere-info a:hover {
+      color: #8EF9F3;
+    }
+  </style>
