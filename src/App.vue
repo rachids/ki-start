@@ -162,6 +162,7 @@
 
     .btn {
       display: inline-block;
+      margin-top:50px;
       padding: 0.46em 1.6em;
       border: 0.1em solid #8EF9F3;
       background-color: #593C8F;
@@ -185,6 +186,7 @@
       text-align: center;
       box-shadow: -1px 15px 30px -12px black;
       color: #8ef9f3;
+      height:420px;
     }
 
     .carriere-header {
@@ -196,8 +198,6 @@
       position: relative;
       height: 130px;
       margin-bottom: 35px;
-      border-top-left-radius: $border-radius-size;
-      border-top-right-radius: $border-radius-size;
       overflow:hidden;
     }
 
