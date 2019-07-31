@@ -20,21 +20,15 @@
         "reponses": [
             {
                 "intitule": "Belliqueux",
-                "carrieres": [
-                    "Assassin", "Explorateur", "Inquisiteur", "Mercenaire", "Officier", "Terroriste"
-                ]
+                "carrieres": [3, 9, 12, 17, 20, 24]
             },
             {
                 "intitule": "Aventurier",
-                "carrieres": [
-                    "Espion", "Explorateur", "Inquisiteur", "Sorcier", "Trafiquant"
-                ]
+                "carrieres": [8, 9, 12, 23, 25]
             },
             {
                 "intitule": "Fourbe",
-                "carrieres": [
-                    "Assassin", "Criminel", "Espion", "Faussaire", "Sorcier", "Terroriste"
-                ]
+                "carrieres": [3, 6, 8, 10, 23, 24]
             }
         ]
     },
@@ -45,22 +39,15 @@
         "reponses": [
             {
                 "intitule": "Baratineur",
-                "carrieres": [
-                    "Astrologue", "Avocat", "Diplomate", "Marin", "Missionnaire", "Négociant", "Prostitué"
-                ]
+                "carrieres": [4, 5, 7, 13, 18, 19, 22]
             },
             {
                 "intitule": "Spirituel",
-                "carrieres": [
-                    "Astrologue", "Mentat", "Missionnaire", "Prêtre", "Sorcier"
-                ]
+                "carrieres": [4, 16, 18, 21, 23]
             },
             {
                 "intitule": "Professionnel",
-                "carrieres": [
-                    "Architecte", "Artiste", "Avocat", "Informaticien", "Mécanicien", "Médecin",
-                    "Négociant", "Trafiquant"
-                ]
+                "carrieres": [1, 2, 5, 11, 14, 15, 19, 25]
             }
         ]
     }

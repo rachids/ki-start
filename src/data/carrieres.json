@@ -1,0 +1,177 @@
+[
+  {
+    "id": 1,
+    "nom": "Architecte",
+    "image": "http://img.kraland.org/3/ill/c25_1.jpg",
+    "url_regle": "http://www.kraland.org/main.php?p=3_3_1",
+    "description": "L'Architecte a dans la tête les plans de centaines de bâtiments les plus remarquables mais en général, faute de budget, doit se contenter de faire construire des immeubles de béton. Toutefois, il arrive qu'un mécène fasse appel à ses services pour lui bâtir la villa de ses rêves au bord d'une rivière."
+  },
+  {
+    "id": 2,
+    "nom": "Artiste",
+    "image": "http://img.kraland.org/3/ill/c14_2.jpg",
+    "url_regle": "http://www.kraland.org/main.php?p=3_3_2",
+    "description": "L’Artiste peut être un peintre ou un sculpteur dont les œuvres sont exposées dans les musées aux quatre coins du monde. Il peut être également un musicien ou un chanteur se produisant dans les salles de spectacle, recueillant les acclamations d’une foule impressionnée par sa performance. Il peut connaître le succès mais parfois la renommée s’évanouit aussi vite qu’elle était apparue et le vieux saltimbanque doit alors abandonner les feux de la rampe."
+  },
+  {
+    "id": 3,
+    "nom": "Assassin",
+    "image": "http://img.kraland.org/3/ill/c6_1.jpg",
+    "url_regle": "http://www.kraland.org/main.php?p=3_3_3",
+    "description": ""
+  },
+  {
+    "id": 4,
+    "nom": "Astrologue",
+    "image": "http://img.kraland.org/3/ill/c22_1.jpg",
+    "url_regle": "http://www.kraland.org/main.php?p=3_3_4",
+    "description": "L'Astrologue est initié aux arcanes subtiles de l'influence des astres sur les êtres humains, lui permettant de dresser des horoscopes et d'effectuer des prévisions. Il est souvent considéré comme un charlatan abusant de la naïveté de ceux qui l'écoutent à la recherche de réconfort ou de certitude face aux défis de l'existence. Lorsqu'on le confronte à une prédiction erronée, l'Astrologue trouve toujours le moyen de se justifier avec un discours nébuleux."
+  },
+  {
+    "id": 5,
+    "nom": "Avocat",
+    "image": "http://img.kraland.org/3/ill/c17_2.jpg",
+    "url_regle": "http://www.kraland.org/main.php?p=3_3_5",
+    "description": "Il est difficile de s’y retrouver dans les dédales tortueux de la loi, sauf pour l’Avocat qui a fait du droit sa spécialité. Il prodigue aux néophytes de précieux conseils pour les aider dans leurs démarches légales. À l’occasion, il défend au tribunal un homme accusé des pires turpitudes et lui taille un costume d’innocent pour lui permettre d’échapper à la prison. Bien des organisations criminelles savent user d’hommes de loi pour couvrir leurs opérations illégales."
+  },
+  {
+    "id": 6,
+    "nom": "Criminel",
+    "image": "http://img.kraland.org/3/ill/c21_1.jpg",
+    "url_regle": "http://www.kraland.org/main.php?p=3_3_6",
+    "description": "Il a bien souvent commencé comme simple voleur-à-la-tire sur les marchés avant de se lancer dans des casses de bijouteries : le Criminel, las des petits larcins, a fini par s’associer à des complices pour constituer une véritable organisation du crime. Celle-ci lui permet d’avoir l’infrastructure nécessaire pour monter des cambriolages d’envergure, voire de dominer une ville où il assure la protection des commerçants en échange du paiement d’une commission sur leurs ventes."
+  },
+  {
+    "id": 7,
+    "nom": "Diplomate",
+    "url_regle": "http://www.kraland.org/main.php?p=3_3_7",
+    "image": "http://img.kraland.org/3/ill/c12_1.jpg",
+    "description": "Le Diplomate est l’intermédiaire idéal entre deux partis aux intérêts opposés. Avec son prodigieux talent de médiateur, il permet de dégager un compromis aux termes honorables pour les deux adversaires d’hier. Il n’a de cesse de recommander des solutions négociées aux conflits qui déchirent les hommes, que ce soient de simples querelles de voisinage ou des désaccords politiques de grande envergure."
+  },
+  {
+    "id": 8,
+    "nom": "Espion",
+    "url_regle": "http://www.kraland.org/main.php?p=3_3_8",
+    "image": "http://img.kraland.org/3/ill/c15_1.jpg",
+    "description": "L’Espion est capable de pénétrer dans les bâtiments les mieux gardés, à la barbe des agents de sécurité, pour s’emparer de documents confidentiels. Qu’il s’agisse de plans militaires de la prochaine invasion ou de secrets industriels en mesure de bouleverser l’ordre économique, rien ne semble hors d’atteinte pour lui. Loin de ces hauts faits, il lui arrive aussi d’espionner le rival d’un simple particulier si ce dernier le paie correctement."
+  },
+  {
+    "id": 9,
+    "nom": "Explorateur",
+    "url_regle": "http://www.kraland.org/main.php?p=3_3_9",
+    "image": "http://img.kraland.org/3/ill/c3_1.jpg",
+    "description": "L’Explorateur repousse sans cesse les limites de l’inconnu. Il parcourt les régions éloignées, bravant mille dangers, que ce soient des serpents venimeux ou des indigènes anthropophages. Grâce à sa ténacité, il parvient in fine à découvrir une civilisation perdue, un important gisement minier, de nouvelles terres à défraîchir ou, à défaut, une belle aborigène qui partagera ses vieux jours quand la goutte ne lui permettra plus de courir le monde."
+  },
+  {
+    "id": 10,
+    "nom": "Faussaire",
+    "url_regle": "http://www.kraland.org/main.php?p=3_3_10",
+    "image": "http://img.kraland.org/3/ill/c20_2.jpg",
+    "description": "Fausse monnaie, faux testaments et documents notariés falsifiés, faux passeports et titres de propriété douteux, voilà le travail d’orfèvre du Faussaire. Si ses activités le conduiront bien plus sûrement à la prison qu’au musée, il est un rouage essentiel dans toute organisation criminelle pour fournir les faux papiers nécessaires à ses complices dans leurs activités malhonnêtes."
+  },
+  {
+    "id": 11,
+    "nom": "Informaticien",
+    "url_regle": "http://www.kraland.org/main.php?p=3_3_11",
+    "image": "http://img.kraland.org/3/ill/c19_1.jpg",
+    "description": "L’Informaticien est un spécialiste des machines électroniques et de leur programmation. Il peut ainsi coder des applications qui faciliteront la vie de ses concitoyens, mais aussi utiliser ses talents à mauvais escient pour pénétrer des banques de données à la recherche d’informations confidentielles, voire saboter des appareillages de sécurité ou des infrastructures militaires."
+  },
+  {
+    "id": 12,
+    "nom": "Inquisiteur",
+    "url_regle": "http://www.kraland.org/main.php?p=3_3_12",
+    "image": "http://img.kraland.org/3/ill/c2_2.jpg",
+    "description": "Dévoué à son dieu jusqu’au fanatisme, l’Inquisiteur traque sans relâche les apostats, les traîtres à la cause, ceux qui doutent de la victoire finale ou du bien-fondé des principes révélés. Craint par le reste de la population qui redoute ses interrogatoires funestes, il ne rêve que de faire retrouver au monde sa pureté originelle. Sa vision débouche sur une épuration systématique où la fin justifie souvent les moyens."
+  },
+  {
+    "id": 13,
+    "nom": "Marin",
+    "url_regle": "http://www.kraland.org/main.php?p=3_3_13",
+    "image": "http://img.kraland.org/3/ill/c24_1.jpg",
+    "description": "Parcourant les fleuves tranquilles comme les mers les plus déchaînées, le Marin n'a peur de rien, du moins le prétend-il. Dans les tripots, il raconte les histoires les plus étranges sur les trésors engloutis et les sirènes dont il a dû refuser l'amour, ayant déjà une femme dans chaque port. Le Marin s'adonne à l'occasion au piratage pour arrondir les fins de mois."
+  },
+  {
+    "id": 14,
+    "nom": "Mécanicien",
+    "url_regle": "http://www.kraland.org/main.php?p=3_3_14",
+    "image": "http://img.kraland.org/3/ill/c23_1.jpg",
+    "description": "Le Mécanicien connaît les subtils rouages des machines. Il est capable de bidouiller un moteur, de désamorcer des pièges ou d'installer des mécanismes efficaces. Dans son garage, il lui arrive de maquiller un véhicule volé pour le revendre à un client peu regardant."
+  },
+  {
+    "id": 15,
+    "nom": "Médecin",
+    "url_regle": "http://www.kraland.org/main.php?p=3_3_15",
+    "image": "http://img.kraland.org/3/ill/c10_2.jpg",
+    "description": "Le Médecin vient en aide aux affligés. Il soigne les maladies, panse les blessures, guérit les petits bobos, ampute les membres gangrénés - et tout cela pour de modiques sommes qui lui permettent à peine de se payer la petite villa de ses rêves au bord de la mer. Il se fait parfois accuser d’avoir prescrit un médicament inefficace ou inadéquat à un malade, mais il se réfugie derrière les aléas des effets secondaires."
+  },
+  {
+    "id": 16,
+    "nom": "Mentat",
+    "url_regle": "http://www.kraland.org/main.php?p=3_3_16",
+    "image": "http://img.kraland.org/3/ill/c9_1.jpg",
+    "description": "Alors qu’il était encore un jeune enfant, le Mentat s’est rendu compte qu’il possédait des capacités psychiques extraordinaires. À la découverte des possibilités que celles-ci lui offraient, il a commencé à les utiliser de manière maladroite, suscitant la méfiance ou l’hostilité dans son entourage. Puis peu à peu, il est parvenu à les maîtriser et à les employer à sa convenance. Il se rend toutefois compte qu’il est bien différent de ses contemporains et se voit souvent contraint à mener une existence solitaire."
+  },
+  {
+    "id": 17,
+    "nom": "Mercenaire",
+    "url_regle": "http://www.kraland.org/main.php?p=3_3_17",
+    "image": "http://img.kraland.org/3/ill/c4_2.jpg",
+    "description": "Le Mercenaire est un guerrier prêt à adhérer à n’importe quelle cause du moment qu’elle le paie bien. Sa loyauté va de pair avec une rétribution conséquente et il n’est pas rare qu’il change de camp si l’adversaire propose des émoluments plus élevés. L’argent étant le nerf de sa guerre, il s’accorde aussi à l’occasion de petites primes exceptionnelles en pillant les cités ennemies, ce qui lui vaut une sinistre réputation parmi la population civile."
+  },
+  {
+    "id": 18,
+    "nom": "Missionnaire",
+    "url_regle": "http://www.kraland.org/main.php?p=3_3_18",
+    "image": "http://img.kraland.org/3/ill/c8_2.jpg",
+    "description": "Habité par la ferme conviction qu’il doit porter la bonne parole auprès des peuplades païennes, le Missionnaire passe les frontières et brave mille dangers. Il révèle la voie de la vérité à ceux qui n’adoraient jusque-là que des idoles grotesques et sans pouvoir. Son unique problème est que les zélateurs des cultes adverses prétendent eux aussi détenir la vérité et viennent piétiner sans ménagement ses platebandes évangéliques."
+  },
+  {
+    "id": 19,
+    "nom": "Négociant",
+    "url_regle": "http://www.kraland.org/main.php?p=3_3_19",
+    "image": "http://img.kraland.org/3/ill/c16_1.jpg",
+    "description": "Après avoir fondé sa petite entreprise dans un quartier modeste de la ville, le Négociant a agrandi son affaire et étendu son activité commerciale aux provinces avoisinantes. Il importe des matières premières à bas prix pour produire des équipements sophistiqués que s’arrachent à prix d’or des clients huppés. Son œil expert lui permet d’estimer à leur juste valeur les objets rares et les œuvres d’art. Ses conseils avisés en matière financière font de lui un expert écouté."
+  },
+  {
+    "id": 20,
+    "nom": "Officier",
+    "url_regle": "http://www.kraland.org/main.php?p=3_3_20",
+    "image": "http://img.kraland.org/3/ill/c1_2.jpg",
+    "description": "Le plus souvent diplômé de l’école militaire, l’Officier connaît toutes les tactiques, des plus connues aux plus retorses, à appliquer sur les champs de bataille. Parfois issu du rang, c’est alors par son courage sur ceux-ci qu’il a gagné ses galons. Il jouit d’un prestige certain auprès du public en raison de son bel uniforme et ses médailles. En général respecté de ses hommes, il s’efforce de les conduire à la victoire lorsque mugissent dans les campagnes les féroces soldats ennemis."
+  },
+  {
+    "id": 21,
+    "nom": "Prêtre",
+    "url_regle": "http://www.kraland.org/main.php?p=3_3_21",
+    "image": "http://img.kraland.org/3/ill/c7_2.jpg",
+    "description": "Touché par la grâce dans sa jeunesse, le Prêtre est convaincu de l’existence de la divinité qu’il sert avec dévotion. Versé dans les rites et la théologie, il se charge du service religieux qui permet, à lui et à ses coreligionnaires, de s’élever spirituellement. Les préceptes qu’il enseigne varient bien sûr d’un culte à l’autre et, s’il sert un dieu maléfique, les principes qu’il préconise peuvent se révéler sanguinaires. Quoiqu’il en soit, sa sagesse et son intégrité sont souvent citées en exemple."
+  },
+  {
+    "id": 22,
+    "nom": "Prostitué",
+    "url_regle": "http://www.kraland.org/main.php?p=3_3_22",
+    "image": "http://img.kraland.org/3/ill/c13_1.jpg",
+    "description": "De la serveuse à la jambe leste de l’auberge à la courtisane évoluant avec grâce dans les salons, en passant par le giton d’un gouverneur vieillissant, il existe toutes sortes de Prostitués. Même si leurs conditions de travail sont parfois pénibles, ils rêvent tous de conquérir un riche client qui les mettrait définitivement à l’abri du besoin, leur permettrait de faire carrière dans le cinéma ou leur offrirait toute autre place enviable dans la jet-society."
+  },
+  {
+    "id": 23,
+    "nom": "Sorcier",
+    "url_regle": "http://www.kraland.org/main.php?p=3_3_23",
+    "image": "http://img.kraland.org/3/ill/c11_1.jpg",
+    "description": "Passionné par les sciences occultes, le Sorcier a découvert le moyen de contrôler l’énergie magique à son avantage. Ce fabuleux pouvoir lui est bien sûr monté à la tête et il se croit supérieur aux autres hommes, incapables de ses prouesses pyrotechniques. Dans le meilleur des cas, il propose ses services contre espèces sonnantes et trébuchantes. Dans le pire des cas, mégalomane et paranoïaque, il cherche à utiliser ses pouvoirs afin de devenir maître du monde."
+  },
+  {
+    "id": 24,
+    "nom": "Terroriste",
+    "url_regle": "http://www.kraland.org/main.php?p=3_3_24",
+    "image": "http://img.kraland.org/3/ill/c5_1.jpg",
+    "description": "Le Terroriste a décidé d’utiliser ses talents d’artificier pour une œuvre de destruction. Il manipule de dangereux explosifs et commet des attentats, annihilant des édifices publics, des industries stratégiques ou des bases militaires. Il peut servir une cause qu’il juge noble comme de sordides intérêts financiers. Ses actes endommagent les infrastructures, nuisent à l’économie et sont condamnés par tous, du moins officiellement."
+  },
+  {
+    "id": 25,
+    "nom": "Trafiquant",
+    "url_regle": "http://www.kraland.org/main.php?p=3_3_25",
+    "image": "http://img.kraland.org/3/ill/c18_2.jpg",
+    "description": "Dès lors que la morale est secondaire, de toutes les formes de commerce, c’est l’illégal qui rapporte le plus. Le Trafiquant l’a bien compris et s’adonne à tout l’éventail de possibilités, que ce soient les drogues, les produits dangereux, les armes, les poisons ou les esclaves. Il construit ainsi des réseaux criminels de trafic dans toute la région et se taille de plantureux bénéfices au détriment de l’économie légale."
+  }
+]
