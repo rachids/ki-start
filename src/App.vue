@@ -2,7 +2,7 @@
     <div id="app">
         <div class="results" v-if="results">
             <div class="header">
-                <p>Nous te recommandons les carrières suivantes :</p>
+                <p>Nous vous recommandons les carrières suivantes :</p>
             </div>
 
             <div class="carrieres">
@@ -214,6 +214,10 @@
     }
 
     /*Résultats*/
+    .header {
+        font-size: xx-large;
+    }
+
     .carrieres {
         display: flex;
         justify-content: space-around;
