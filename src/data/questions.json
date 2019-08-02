@@ -1,54 +1,56 @@
 [
-    {
-        "id": 0,
-        "intitule": "Vous souhaitez ...",
-        "reponses": [
-            {
-                "question_suivante": 1,
-                "intitule": "Vivre dangereusement."
-            },
-            {
-                "question_suivante": 2,
-                "intitule": "Découvrir le cybermonde sereinement."
-            }
-        ]
-    },
+  {
+    "id": 1,
+    "intitule": "Vous souhaitez ...",
+    "reponses": [
+      {
+        "question_suivante": 2,
+        "intitule": "Vivre dangereusement."
+      },
+      {
+        "question_suivante": 3,
+        "intitule": "Découvrir le cybermonde sereinement."
+      }
+    ]
+  },
 
-    {
-        "id": 1,
-        "intitule": "Vous êtes plutôt ...",
-        "reponses": [
-            {
-                "intitule": "Belliqueux",
-                "carrieres": [3, 9, 12, 17, 20, 24]
-            },
-            {
-                "intitule": "Aventurier",
-                "carrieres": [8, 9, 12, 23, 25]
-            },
-            {
-                "intitule": "Fourbe",
-                "carrieres": [3, 6, 8, 10, 23, 24]
-            }
-        ]
-    },
+  {
+    "id": 2,
+    "question_precedente": 1,
+    "intitule": "Vous êtes plutôt ...",
+    "reponses": [
+      {
+        "intitule": "Belliqueux",
+        "carrieres": [3, 9, 12, 17, 20, 24]
+      },
+      {
+        "intitule": "Aventurier",
+        "carrieres": [8, 9, 12, 23, 25]
+      },
+      {
+        "intitule": "Fourbe",
+        "carrieres": [3, 6, 8, 10, 23, 24]
+      }
+    ]
+  },
 
-    {
-        "id": 2,
-        "intitule": "Vous êtes plutôt ...",
-        "reponses": [
-            {
-                "intitule": "Baratineur",
-                "carrieres": [4, 5, 7, 13, 18, 19, 22]
-            },
-            {
-                "intitule": "Spirituel",
-                "carrieres": [4, 16, 18, 21, 23]
-            },
-            {
-                "intitule": "Professionnel",
-                "carrieres": [1, 2, 5, 11, 14, 15, 19, 25]
-            }
-        ]
-    }
+  {
+    "id": 3,
+    "question_precedente": 1,
+    "intitule": "Vous êtes plutôt ...",
+    "reponses": [
+      {
+        "intitule": "Baratineur",
+        "carrieres": [4, 5, 7, 13, 18, 19, 22]
+      },
+      {
+        "intitule": "Spirituel",
+        "carrieres": [4, 16, 18, 21, 23]
+      },
+      {
+        "intitule": "Professionnel",
+        "carrieres": [1, 2, 5, 11, 14, 15, 19, 25]
+      }
+    ]
+  }
 ]
